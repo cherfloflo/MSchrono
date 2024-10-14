@@ -20,3 +20,11 @@ Ce projet vise à développer un système de chronométrage pour des compétitio
 ## Application de Contrôle
 - **Flutter (React Native)
 
+## Conclusion
+
+Ces choix techniques ont été faits en tenant compte de la simplicité, de la modularité et du coût. Le prototype développé avec ces composants permettra une solution robuste et évolutive pour la gestion des compétitions d'escalade. Les prochaines étapes incluront le développement de l'API, l'intégration des panneaux LED avec l'ESP32, et la création de l'application de contrôle.
+
+## Références
+
+- [Documentation ESP32-C3](https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/)
+- [Panneau LED P5 HUB75](https://www.aliexpress.com)
