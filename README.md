@@ -26,5 +26,5 @@ Ces choix techniques ont été faits en tenant compte de la simplicité, de la m
 
 ## Références
 
-- [Documentation ESP32-C6]([https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/](https://docs.espressif.com/projects/esp-idf/en/latest/esp32c6/index.html))
+- [Documentation ESP32-C6](https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/](https://docs.espressif.com/projects/esp-idf/en/latest/esp32c6/index.html)
 - [Panneau LED P5 HUB75](https://www.aliexpress.com)
