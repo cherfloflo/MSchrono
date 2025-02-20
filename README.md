@@ -7,7 +7,7 @@ Ce projet vise à développer un système de chronométrage pour des compétitio
 
 ## Matériel Utilisé
 - **ESP32-C6 Mini** : Choisi pour sa compatibilité avec Wi-Fi 6 et sa prise en charge des protocoles Zigbee et Thread. Il est également compatible avec l'environnement de développement Arduino.
-- **Panneaux LED P5 HUB75 (320x160 mm)** : Sélectionné pour sa haute luminosité, sa robustesse, et sa taille adéquate pour des salles d'escalade.
+- **Panneaux LED P4 HUB75 (320x160 mm)** : Sélectionné pour sa haute luminosité, sa robustesse, et sa taille adéquate pour des salles d'escalade.
 - **Alimentation 5V/10A** : Fournit une puissance suffisante pour alimenter les panneaux LED.
 
 ## Communication et Synchronisation
