@@ -1,0 +1,8 @@
+.pio/
+.vscode/
+# OS/editor cruft
+.DS_Store
+Thumbs.db
+
+# Build/sim artifacts
+build_*.ppm
