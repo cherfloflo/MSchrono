@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .pio/
 .vscode/
 # OS/editor cruft
@@ -6,3 +7,6 @@ Thumbs.db
 
 # Build/sim artifacts
 build_*.ppm
+=======
+.pio
+>>>>>>> 7beb26c82560e6676caa47c541c590f96ed1bf2c
